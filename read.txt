@@ -7,3 +7,4 @@ Commit1 in anotherBranch
 
 Final version for rebase!!!
 Для работы с удаленным репозиторием.
+Изменения в r1

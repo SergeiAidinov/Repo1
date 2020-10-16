@@ -1,0 +1,9 @@
+Новый файл
+<<<<<<< HEAD
+Commit in master
+Commit2 in master
+=======
+Commit1 in anotherBranch
+
+Final version for rebase!!!
+Для работы с удаленным репозиторием.

@@ -1,0 +1,14 @@
+Новый файл
+<<<<<<< HEAD
+<<<<<<< HEAD
+Commit in master
+Commit2 in master
+=======
+Commit1 in anotherBranch
+>>>>>>> First commit in anotherBranch
+
+Final version for rebase!!!
+=======
+Commit1 in anotherBranch
+Commit2 in anotherBranch
+>>>>>>> Second commit in anotherBranch
